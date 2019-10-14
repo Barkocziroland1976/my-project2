@@ -7,5 +7,6 @@ void main(void){
 	
 	console.write("4th row");
 	
-	console.write("6th row");
+	console.write("Whatever");
+
 }
